@@ -1,8 +1,9 @@
 # Installation Guide
 ## Pre-requisites
-Before installation, make sure your computer meets the minimum system requirement.
+Before installing the application, make sure your computer meets the minimum system requirements.
 ### Installation Steps
 1. Download the application installer.
 2. Run the installer.
 3. Follow the instructions on the screen.
 4. Click **Finish** to complete the installation.
+Note: If the application opens without errors, the installation is successful.
