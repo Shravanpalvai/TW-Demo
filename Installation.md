@@ -10,3 +10,4 @@ Note: If the application opens without errors, the installation is successful.
 ## Troubleshooting
 
 If the application does not start, restart your computer and try launching the application again.
+If the issue persists, check that your computer meets the minimum system requirements and try starting the application again.
