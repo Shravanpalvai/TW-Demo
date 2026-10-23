@@ -1,7 +1,0 @@
-site_name: TW Demo
-
-nav:
-  - Home: Index.md
-  - Configuration: Configuration.md
-  - Installation: Installation.md
-  - Troubleshooting: Troubleshooting.md
